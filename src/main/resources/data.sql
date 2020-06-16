@@ -1,0 +1,2 @@
+insert into Wallet(mobileNumber,name,email,balance,password)values(8179827010,'john','john1234@gmail.com',10000,'John@321');
+insert into Wallet(mobileNumber,name,email,balance,password)values(8008020917,'smith','smith9595@gmail.com',10000,'Smith@456');
